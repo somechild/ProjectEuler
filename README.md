@@ -1,2 +1,2 @@
 # ProjectEuler
-Just working through the project euler problems
+Just working through a few [Project Euler](https://projecteuler.net/) problems...
