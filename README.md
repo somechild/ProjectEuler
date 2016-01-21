@@ -1,7 +1,7 @@
 # ProjectEuler
 Just working through a few [Project Euler](https://projecteuler.net/) problems...
 
-**I strongly urge you to try solving the problems at [Project Euler's Archives](https://projecteuler.net/archives) on your own as they can get quite interesting :)**
+**I strongly urge you to try solving the problems at Project Euler's [Archives](https://projecteuler.net/archives) on your own as they can get quite interesting :)**
 
 
 P.S.
